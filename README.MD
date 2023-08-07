@@ -1,4 +1,4 @@
-# Auto honeypot IP list
+# Auto honeypot IP list ![Honeypot IP Git Updater](https://cronitor.io/badges/cqSG6R/production/gWiKMfHSwkzZv5EEK6t12Y5MZgg.svg)<br>
 ## [Status Page ](https://honeypot.cronitorstatus.com/) | [My site](https://csduncan.co.uk) | [Shodan](https://shodan.io)
 
 <i>New methods for honeypot detection will be coming soon.</i> <br>
