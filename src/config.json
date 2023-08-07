@@ -1,0 +1,10 @@
+{
+    "Shodan_API_key": "SHODAN_API_KEY",
+    "IP_file": "honeypot_ips.txt",
+    "ACCESS_TOKEN": "GIT_ACCESS_TKN",
+    "USERNAME": "git_username",
+    "REPO_NAME": "git_repo_name",
+    "FILE_PATH": "honeypot_ips.txt",
+    "BRANCH": "main"
+  }
+  
