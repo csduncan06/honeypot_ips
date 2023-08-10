@@ -1,5 +1,8 @@
 # Auto honeypot IP list
-## [Status Page ](https://honeypot.cronitorstatus.com/) | [My site](https://csduncan.co.uk) | [Shodan](https://shodan.io)
+| [My site](https://csduncan.co.uk) | [Shodan](https://shodan.io)
+
+## CURRENTLY DEAD
+Working on Fix 
 
 <i>New methods for honeypot detection will be coming soon.</i> <br>
 Code is already hosted on AWS EC2 but can be found in `src`
